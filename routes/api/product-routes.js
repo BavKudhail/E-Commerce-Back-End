@@ -9,6 +9,7 @@ router.get("/", async (req, res) => {
   // be sure to include its associated Category and Tag data
   try {
     const productData = await Product.findAll({
+      attributes: ["id", "product_name", "price", "stock"],
       include: [{ model: Category }, { model: Tag }],
     });
     res.status(200).json(productData);
