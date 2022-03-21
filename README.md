@@ -66,14 +66,15 @@ npm run start
 
 
 ## Screenshot
+![Untitled_ Mar 21, 2022 6_26 PM](https://user-images.githubusercontent.com/93915846/159340664-d2589ebb-c978-40a0-b3dc-73941eb3babd.gif)
 
-![terminal screenshot](https://raw.githubusercontent.com/BavKudhail/Read-Me-Generator/main/assets/images/screenshot.JPG)
 
-[Click here to view a generated sample](https://github.com/BavKudhail/Read-Me-Generator/blob/main/sampleREADME.md)
 
 ## Walkthrough
+https://user-images.githubusercontent.com/93915846/159342431-5dc23a91-83ec-42ec-9161-2c168f618e08.mp4
 
-https://user-images.githubusercontent.com/93915846/155854603-056e4ccb-589e-4c17-ba03-c71c40e418d0.mp4
+
+
 
 ## Contributing
 
